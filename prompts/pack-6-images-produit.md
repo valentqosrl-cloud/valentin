@@ -83,6 +83,14 @@ RÈGLES COULEURS :
 5. Format de chaque image : 2048 x 2048 px, carré 1:1, marge de sécurité de 120 px,
    texte de 48 px minimum (lisible sur mobile).
 6. Petit logo Nuvopattes en bas à droite sur les images 2 à 6 (jamais sur l'image 1).
+7. LIMITES ET COMPATIBILITÉ : si la fiche produit indique une limite (ex. « Android
+   uniquement », « pas un GPS », « tour de cou à vérifier »), elle DOIT apparaître clairement
+   sur les images 2 et 6, dans un encart à contour #BC804C avec le picto ⚠, texte noir.
+   Le client ne doit jamais pouvoir croire que le produit fait plus que ce qu'il fait.
+8. Aucun logo de marque tierce : pas de logo Google, Android, Apple, Bluetooth, etc. Le nom
+   écrit en texte simple est autorisé (ex. « Compatible Android »). Pas de faux écran
+   d'application copié d'une vraie app : un écran de smartphone simplifié et générique,
+   avec une carte et un point de position.
 
 ═══════════════════════════════════════════
 4. LES 6 IMAGES (TOUJOURS DANS CET ORDRE)
@@ -180,6 +188,7 @@ Usages / compatibles :
 Dimensions exactes   : (cm)          Poids :
 Matières             :
 Contenu du colis     :
+Limites / à savoir   : (compatibilité, ce que le produit NE fait PAS)
 Cible                :
 ```
 
@@ -205,6 +214,41 @@ Matières             : plastique et éponge
 Contenu du colis     : 5 boules (un seul coloris)
 Cible                : propriétaires de chats et de chiens
 Interdit ici         : « 100 % des poils », « élimine tous les poils »
+```
+
+## Exemple de fiche remplie : collier traceur Bluetooth
+
+```
+Nom du produit       : Collier traceur Bluetooth pour chat – compatible Android
+SKU                  : NUVO-COLLIER-TRACEUR
+Coloris / variantes  : Noir / Rose / Bleu
+Problème résolu      : on s'inquiète quand le chat part en vadrouille et on ne sait pas où il est
+Promesse (titre img 2): Retrouvez votre chat plus facilement
+3 bénéfices          : 1) Sans abonnement  2) Étanche IP68  3) Léger et confortable
+Fonctionnement       : 1) Mettez le collier à votre chat
+                       2) Associez-le à Google Localiser sur votre Android
+                       3) Voyez sa dernière position sur la carte
+Caractéristiques     : traceur Bluetooth / réseau Google Localiser / sans abonnement /
+                       étanche IP68 / étui en silicone souple / pile bouton CR2032
+Entretien            : pile CR2032 remplaçable ; essuyer l'étui, résiste à la pluie
+                       et aux éclaboussures
+Usages / compatibles : chats et petits chiens ; smartphones Android
+Dimensions exactes   : traceur [À COMPLÉTER] cm / tour de cou réglable [À COMPLÉTER] cm
+                       Poids : [À COMPLÉTER] g
+Matières             : étui en silicone souple + [matière du collier : À COMPLÉTER]
+Contenu du colis     : 1 collier + 1 traceur + 1 pile CR2032 [À CONFIRMER]
+Limites / à savoir   : ⚠ Android uniquement : ne fonctionne pas avec un iPhone.
+                       ⚠ Traceur Bluetooth, PAS un GPS : la position s'actualise quand un
+                         smartphone Android passe à proximité (portée d'environ 50 à 100 m).
+                       ⚠ Vérifiez le tour de cou de votre animal.
+Cible                : propriétaires de chats qui sortent, sur Android
+Interdit ici         : « GPS », « suivi en temps réel », « localisation partout »,
+                       « portée illimitée », « fonctionne avec iPhone », logo Google ou Android,
+                       autonomie chiffrée non confirmée
+Image 3              : écran de smartphone GÉNÉRIQUE (carte + point de position + « Dernière
+                       position »), pas une copie de l'application Google
+Image 5 (entretien)  : remplacement de la pile CR2032 en 2 étapes + « résiste à la pluie »
+Image 6              : cotes du traceur + plage du tour de cou + les 3 coloris + encart ⚠
 ```
 
 ## Si ChatGPT se trompe encore
